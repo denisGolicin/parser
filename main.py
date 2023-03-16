@@ -7,12 +7,6 @@ import time
 
 
 def main():
-    #print("===============================================")
-    
-    #sendMessage(getName(), getMail(), parser(10))
-
-    #print("===============================================")
-    #print(getValue())
 
     min = int(debug.getLine())
     max = int(getValue())
