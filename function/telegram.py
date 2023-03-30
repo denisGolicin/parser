@@ -1,7 +1,5 @@
 import requests
 from function import debug
-import sys
-sys.path.append('../')
 from config import token, chatid
 
 def sendMessage(name, mail, phone):
